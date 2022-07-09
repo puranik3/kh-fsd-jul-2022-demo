@@ -1,0 +1,1 @@
+Its just a file to check creating new barnch and merge it to other branch like 'master'git 
