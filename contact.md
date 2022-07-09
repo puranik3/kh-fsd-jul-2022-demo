@@ -27,9 +27,6 @@ Here is my changes!
 - Email: sshd@yahoo.com
 - Team Morlu Holder
 - Mkhg1@gmail.com
-<<<<<<< HEAD
 - devops and AWS Engineer
 - new branch
-=======
 -devops and AWS Engineer
->>>>>>> 1759fdf8649a7e5b34506ad2877daed5aa636864
