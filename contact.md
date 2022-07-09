@@ -17,7 +17,7 @@ Team Member : Prashanth
 Email : puranik@xyz.com
 - TM : NK
 - E Mail : Nav1@anyemail.com
-
+g
 Hi, Oleksii is here!
 Here is my changes!
 - Tema member: Oleksii
@@ -27,4 +27,6 @@ Here is my changes!
 - Email: sshd@yahoo.com
 - Team Morlu Holder
 - Mkhg1@gmail.com
+- devops and AWS Engineer
+- new branch
 -devops and AWS Engineer
