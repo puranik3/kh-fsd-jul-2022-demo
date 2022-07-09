@@ -17,3 +17,7 @@ Team Member : Prashanth
 Email : puranik@xyz.com
 - TM : NK
 - E Mail : Nav1@anyemail.com
+
+- Team Morlu Holder
+- Mkhg1@gmail.com
+-devops and AWS Engineer
