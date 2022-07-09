@@ -22,3 +22,7 @@ Hi, Oleksii is here!
 Here is my changes!
 - Tema member: Oleksii
 - email: oleksiitsybulskyi@gmail.com
+
+- Team Morlu Holder
+- Mkhg1@gmail.com
+-devops and AWS Engineer
