@@ -10,5 +10,21 @@
 Team Member : Naveen
 E Mail : Nav@anyemail.com
 
+
+oh boy, we're in it now!
+Everybody's editing the same lines!
 Team Member : Prashanth
 Email : puranik@xyz.com
+- TM : NK
+- E Mail : Nav1@anyemail.com
+
+Hi, Oleksii is here!
+Here is my changes!
+- Tema member: Oleksii
+- email: oleksiitsybulskyi@gmail.com
+
+- Team member : Masouma
+- Email: sshd@yahoo.com
+- Team Morlu Holder
+- Mkhg1@gmail.com
+-devops and AWS Engineer
