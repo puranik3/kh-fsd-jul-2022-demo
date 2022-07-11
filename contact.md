@@ -36,3 +36,8 @@ Name : Sharleen GOmes
 Email: krislyn288@yahoo.com  
 ----- end----
 
+- Hie there,  
+- I am still editing this document  
+- playing around with Git
+- this is funn
+- 
